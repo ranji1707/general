@@ -9,6 +9,7 @@ public class Fibonacci{
 
 		int numval = obj.nextInt(); 
 
+		
 			System.out.println(" The " + numval + " Fibonacci numbers are :");
 
 		Fibonacci myCount = new Fibonacci();
